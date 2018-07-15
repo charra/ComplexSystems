@@ -1,0 +1,17 @@
+.main {
+  background-color: #EEEEEE;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+  max-width: 1024px;
+  margin: 0 auto;
+  font-size: 13px;
+}
+.main td, .main th {
+  border: 1px solid #AAAAAA;
+  padding: 3px 2px;
+}
+.buttons {
+  margin: 15px auto;
+  max-width: 1024px;
+}
